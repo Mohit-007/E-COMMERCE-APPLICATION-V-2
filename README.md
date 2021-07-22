@@ -3,8 +3,6 @@ It is second version of application
 It is live version of application
 It is a Full Stack Web App containing api and server side rendered website
 
-# REST END POINTS API
-This api contain endpoints for items
 
 # DEPLOYMENT SERVER
 This application is deployed on heroku
@@ -17,15 +15,18 @@ This application is deployed on heroku
 
 
 # TECHNOLOGY STACK
-Html
-Css
-JavaScript
-Bootstrap
-Angular
 
-NodeJs
-ExpressJs
-MongoDb
+## FRONTEND
+1) Html
+2) Css
+3) JavaScript
+4) Bootstrap
+5) Angular
+
+## BACKEND
+1) NodeJs
+2) ExpressJs
+3) MongoDb
 
 # LINK
 https://young-stream-49932.herokuapp.com/
