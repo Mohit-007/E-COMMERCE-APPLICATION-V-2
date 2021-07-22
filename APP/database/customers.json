@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "609cef1115520a2514d4407a"
+  },
+  "name": "Mohit Agarwal",
+  "identity": "mohitpitti007@gmail.com",
+  "password": "Mohit@007",
+  "contact": "7790870740",
+  "address": "Sarita Vihar",
+  "state": "Haryana",
+  "city": "Delhi",
+  "country": "India",
+  "__v": 0
+}]
