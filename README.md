@@ -29,8 +29,8 @@ This application is deployed on heroku
 3) MongoDb
 
 # LINK
-https://young-stream-49932.herokuapp.com/
-https://young-stream-49932.herokuapp.com/home
+1) https://young-stream-49932.herokuapp.com/
+2) https://young-stream-49932.herokuapp.com/home
 
 # HOW TO USE THE APPLICATION
 1) visit the website link
