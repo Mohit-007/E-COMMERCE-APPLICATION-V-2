@@ -1,7 +1,6 @@
 # E-COMMERCE-APPLICATION-V-2
-It is second version of application
+It is a Full Stack Web App containing api and server side rendered website for online purchasing of food items
 It is live version of application
-It is a Full Stack Web App containing api and server side rendered website
 
 
 # DEPLOYMENT SERVER
